@@ -1,5 +1,6 @@
 {
     "name": "P2_pmonber325",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
